@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dd534aa5.js",
+    "static/media/PrimaryToken.png": "/static/media/PrimaryToken.e110d23a367a3bc880e9.png",
+    "index.html": "/index.html",
+    "main.dd534aa5.js.map": "/static/js/main.dd534aa5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dd534aa5.js"
+  ]
+}
